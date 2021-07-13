@@ -1,0 +1,54 @@
+/* .App {
+  padding: 30px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.App > div {
+  margin-right: 50px;
+} */
+
+.container {
+  margin: 20px;
+  background-color: blanchedalmond;
+}
+
+.todolist {
+  
+  margin: 20px;
+  background-color:rgba(171, 194, 245, 0.5);
+  border-radius: 25px;
+}
+.todolist h3 {
+  text-align: center;
+}
+
+.newTaskInput {
+  margin: 15px;
+}
+
+.error {
+  border: red 1px solid;
+}
+ 
+.error-message {
+  color: red;
+}
+
+.active-filter {
+  background-color: aquamarine;
+}
+
+ul li {
+  list-style-type: none;
+  padding: 10px;
+}
+
+input {
+  margin-right: 10px;
+}
+
+.buttonGroup button {
+  margin: 10px;
+}
+ 
